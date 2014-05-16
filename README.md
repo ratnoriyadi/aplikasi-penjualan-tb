@@ -1,4 +1,2 @@
 aplikasi-penjualan-tb
 =====================
-
-Penjualan
